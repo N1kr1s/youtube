@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const KEY = 'AIzaSyAFGOPPNAkk0qELhRYPTEU2GwFDjaB2CiE';
+const KEY = 'XXX';
 
 //creating custom instance of axios and import it as youtube
 export default axios.create({
